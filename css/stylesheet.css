@@ -1,0 +1,47 @@
+/* HCI 472 Bootstrap Mock-Up for Portfolio
+author: Kaitlin Simpson */
+
+body {
+    background-color: #202022;
+    color: whitesmoke;
+    font-family: 'Arimo';
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Alice';
+}
+
+.navbar {
+  padding-bottom: 80px;
+}
+
+footer {
+  text-align: center;
+  color: whitesmoke;
+  padding-top: 40px;
+}
+
+.socialIcons {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 30px;
+}
+
+.nav-link:hover {
+    color: #FEBDBD;
+}
+
+.landingIntro {
+    text-align: center;
+    text-justify: center;
+}
+
+.portfolioHead {
+    padding-bottom: 20px;
+}
+
+.card {
+	text-align: center;
+	text-justify: center;
+}
